@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">room</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_user_name">Username mast be more than 3 cher</string>
+    <string name="invalid_password">Password mast be more than 6 of cher and number</string>
+    <string name="invalid_age">Please, write your age</string>
+
+</resources>
